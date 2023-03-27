@@ -1,0 +1,6 @@
+framework module Pods_tab_nav {
+  umbrella header "Pods-tab_nav-umbrella.h"
+
+  export *
+  module * { export * }
+}
